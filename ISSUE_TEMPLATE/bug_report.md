@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help us improve the project and fix whatever not working as it's supposed
+about: Create a report to whatever not working as it's supposed.
 title: "[BUG]-> "
 labels: "bug"
 assignees: ""
