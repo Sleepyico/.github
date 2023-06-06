@@ -7,8 +7,11 @@ assignees: ""
 ---
 
 # Bug Report
+# Feature Request
+###### Note: This is a bug report; meaning that you can only submit a bug report for anything you encounted using the project; Please don't submit any suggestions or features requests in this report and use the other template if so.
+<br>
 
-**Describe the bug**
+**Describe the bug:**
 <!-- A clear and concise description of what the bug is -->
 
 **Version where bug occurs?**
