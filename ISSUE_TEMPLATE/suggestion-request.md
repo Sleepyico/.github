@@ -7,6 +7,9 @@ assignees: ""
 ---
 
 # Suggestion Request
+###### Note: This is a Suggestion request; meaning that you can give us a suggestion for somwthing that already exists in the project. If you wanna submit a request for a New Feature please use the Feature Request.
+
+<br>
 
 **Name of the Suggestion**
 
@@ -27,6 +30,10 @@ assignees: ""
 **Related Code**
 
 <!-- If you are able to illustrate the suggestion request with an example, please provide it here. -->
+
+```
+Related code?
+```
 
 **Additional Context**
 
