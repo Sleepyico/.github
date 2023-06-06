@@ -11,23 +11,23 @@ assignees: ""
 
 <br>
 
-**Name of the Suggestion**
+**Name of the Suggestion:**
 
 <!-- Adding options to this and this. -->
 
-**Describe the Suggestion Request**
+**Describe the Suggestion Request:**
 
 <!-- A clear and concise description of what the feature request is. Please include if your suggestion request is related to a problem. -->
 
-**Describe Preferred Solution**
+**Describe Preferred Solution:**
 
 <!-- A clear and concise description of what you want to happen. -->
 
-**Describe Alternatives**
+**Describe Alternatives:**
 
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
-**Related Code**
+**Related Code:**
 
 <!-- If you are able to illustrate the suggestion request with an example, please provide it here. -->
 
@@ -35,7 +35,7 @@ assignees: ""
 Related code?
 ```
 
-**Additional Context**
+**Additional Context:**
 
 <!-- List any other information that is relevant to your issue. Stack traces, related issues, suggestions on how to add, use case, Stack Overflow links, forum links, screenshots, OS if applicable, etc. -->
 
