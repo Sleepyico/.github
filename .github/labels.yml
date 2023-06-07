@@ -23,9 +23,6 @@
 - name: "🔧 Maintenance"
   color: 2af79e
   description: "Generic maintenance tasks."
-- name: "ci"
-  color: 1d76db
-  description: "Work that improves the continue integration."
 - name: "Ⓜ️ Dependencies"
   color: 1d76db
   description: "Upgrade or downgrade of project dependencies."
@@ -37,10 +34,10 @@
 - name: "❌ Won't-Fix"
   color: "ffffff"
   description: "This will not be worked on"
-- name: "Stale"
+- name: "😵 Stale"
   color: fef2c0
   description: "There has not been activity on this issue or PR for quite some time."
-- name: "No-Stale"
+- name: "☠️ No-Stale"
   color: fef2c0
   description: "This issue or PR is exempted from the stable bot."
 
