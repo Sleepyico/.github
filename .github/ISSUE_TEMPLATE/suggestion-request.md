@@ -1,5 +1,5 @@
 ---
-name: Suggestion Request
+name: 🤔 Suggestion Request
 about: Suggest an idea for this project
 title: "[SG]-> "
 labels: "Suggestion"
