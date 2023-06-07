@@ -74,6 +74,10 @@
 - name: "❄️ Priority-Low"
   color: e4ea8a
   description: "Nice addition, maybe... someday..."
+- name: '🧑‍🤝‍🧑 Duplicate'
+  color: cfd3d7
+  description: 'This issue or pull request already exists'  
+
 
 # Release
 - name: "🚀 Release"
