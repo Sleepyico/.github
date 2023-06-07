@@ -1,5 +1,7 @@
 name: Sync labels
 on:
+  schedule:
+  - cron: '00 12 1 * *'
   # You can run this with every type of event, but it's better to run it only when you actually need it.
   workflow_dispatch:
 
