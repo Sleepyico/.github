@@ -27,6 +27,6 @@ All notable changes to this project will be documented in this file.
 - initial release
 
 <!-- Versions -->
-[more details master -> v1 ...]: https://github.com/babyico/Jeanne/compare/v1.0.0...v0.0.1
-[v1.0.0]: https://github.com/babyico/jeanne/releases/tag/v1.0.0
-[v0.0.1]: https://github.com/babyico/jeanne/releases/tag/v0.0.1
+[more details master -> v1 ...]: https://github.com/babyico/.github/compare/v1.0.0...v0.0.1
+[v1.0.0]: https://github.com/babyico/.github/releases/tag/v1.0.0
+[v0.0.1]: https://github.com/babyico/.github/releases/tag/v0.0.1
