@@ -4,11 +4,11 @@
 
 ## Documentation
 
-See the [Issues](https://github.com/issues) page on the website for the answer to most questions.
+See the `Issues` page on the repository page for the answer to most questions.
 
 ## Discord server
 
-Join the [Discord support server](https://discord.gg/QXpFpg94uG) for help, support, or if your are trying to reach me faster.
+Join the [Discord support server](https://discord.gg/EXHhWpb5ps) for help, support, or if your are trying to reach me faster.
 
 ## Discussions
 
