@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: 'babyico/FarbicMC'
+          repository: 'babyico/FabricMC'
       - uses: EndBug/label-sync@v2
         with:
           config-file: 'https://raw.githubusercontent.com/babyico/.github/master/.github/labels.yml'
