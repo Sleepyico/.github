@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: 'babyico/CarDash'
+          repository: babyico/CarDash
       - uses: EndBug/label-sync@v2
         with:
           config-file: 'https://raw.githubusercontent.com/babyico/.github/master/.github/labels.yml'
