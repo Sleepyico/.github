@@ -9,7 +9,7 @@
 		- [Contributing code](#contributing-code)
 		- [Translating](#translating)
 
-Thank you for considering making a contribution to NamVr.
+Thank you for considering making a contribution to our Services.
 
 Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md), which all contributors must follow.
 
@@ -35,8 +35,8 @@ Please label your issues appropriately.
 
 **Discussions are for:**
 
-- Support (also on [Discord](https://discord.gg/EXHhWpb5ps))
-- General questions (also on [Discord](https://discord.gg/EXHhWpb5ps))
+- Support (also on [Discord](https://iconical.dev/discord))
+- General questions (also on [Discord](https://iconical.dev/discord))
 <!-- - Requesting new features -->
 
 Please read the `Repository Discussions` and the `Rules & Guidelines` before starting a discussion!
