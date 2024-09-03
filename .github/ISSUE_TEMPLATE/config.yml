@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  # - name: GitHub Discussions
-  #   url: https://github.com/babyico/${repository}/discussions
-  #   about: Start a discussion, ask and answer questions here.
+  - name: GitHub Discussions
+    url: https://github.com/sleepyico/sleepyico/discussions
+    about: Start a discussion, ask and answer questions here.
   - name: Discord support server
-    url: https://iconical.dev/discord
+    url: https://discord.gg/QXpFpg94uG
     about: The best place to go for help installing or using Iconical's games and softwares.

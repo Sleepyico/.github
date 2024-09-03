@@ -9,6 +9,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: EndBug/label-sync@v2
         with:
-          config-file: 'https://raw.githubusercontent.com/babyico/.github/master/.github/labels.yml'
+          config-file: 'https://raw.githubusercontent.com/sleepyico/.github/master/.github/labels.yml'
           delete-other-labels: true
           token: ${{ secrets.TOKEN }}

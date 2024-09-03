@@ -1,6 +1,6 @@
 # Support
 
-#### You can reach me on discord or thru the email on my [Profile](https://github.com/babyico)
+#### You can reach me on discord or thru the email on my [Profile](https://github.com/sleepyico)
 
 ## Documentation
 
