@@ -1,1 +1,11 @@
-## Default files for my repos
+# My GitHub Configurations
+
+This repository contains global GitHub configurations for all of my projects.
+
+## 📂 What’s Inside?
+- **Issue Templates**: Standardized templates for bug reports & feature requests.
+- **PR Templates**: Guidelines for submitting pull requests.
+- **Funding Information**: Support our work through GitHub Sponsors and BMAC.
+- **Security Policy**: Guidelines for reporting vulnerabilities.
+
+*These settings apply to all repositories under my name.

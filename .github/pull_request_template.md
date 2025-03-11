@@ -1,35 +1,55 @@
-<!--- Please provide a general summary of your changes in the title above -->
+---
+name: 🚀 Pull Request
+about: Submit a PR to improve this project.
+title: "[PR] -> "
+labels: ""
+assignees: "@sleepyico"
+---
 
-## Pull request type
-###### Note: This is a Pull Request; meaning that you can only submit a Pull Request for something you coded and want to contribute with us; Please don't submit any suggestions or features requests in this request and use the each template for their purpose.
-<br>
+# 🚀 Pull Request
 
-<!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
+#### ⚠️ **Note:** 
+This is a **Pull Request**; meaning that you can only submit a Pull Request for something you coded and want to contribute with us; Please don't submit any suggestions or features requests in this request and use the each template for their purpose.
 
-Please check the type of change your PR introduces:
 
-- [ ] Bugfix
-- [ ] Feature
-- [ ] Code style update (formatting, renaming)
-- [ ] Refactoring (no functional changes, no api changes)
-- [ ] Build related changes
-- [ ] Documentation content changes
-- [ ] Other (please describe):
+## 📌 Summary
+**What does this PR do?**
 
-## What is the current behavior?
+<!-- Example: "Fixes a bug where a transaction disappear into the void instead of adding to the list properly." -->
 
-<!-- Please describe the current behavior that you are modifying, or link to a relevant issue. -->
+## 🔍 Related Issues
+**Does this PR fix any existing issues?**
 
-Issue Number: N/A
+<!-- Example: "Fixes #42 (The meaning of life bug)." -->
 
-## What is the new behavior?
+## 📝 Changes
+  - [ ] New feature added
+  - [ ] Bug fixed
+  - [ ] Code refactored
+  - [ ] Documentation updated
 
-<!-- Please describe the behavior or changes that are being added by this PR. -->
+## 🔄 How to Test
+**Steps to verify this PR works as intended:**
+  1. Pull this branch.
+  2. Run the app.
+  3. Try the feature.
+  4. Confirm that nothing exploded.
 
--
--
--
+## 🖥️ Screenshots/Logs (if applicable)
+**Any visual proof?**
 
-## Other information
+<!-- Example: "Here’s a screenshot of the app not catching on fire anymore." -->
 
-<!-- Any other information that is important to this PR such as screenshots of how the component looks before and after the change. -->
+## ❗ Checklist
+  - [ ] Code follows project guidelines.
+  - [ ] Tests have been added or updated.
+  - [ ] No console errors.
+  - [ ] Documentation updated (if needed).
+
+## ℹ️ Additional Context
+**Any final notes?**
+
+<!-- Example: "This PR should fix the issue, but if something breaks, I was never here." -->
+
+---
+📌 *Thanks for your contribution! We'll review this PR soon.*

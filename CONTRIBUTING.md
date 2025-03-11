@@ -1,74 +1,95 @@
-# Contributing
+# 🚀 Contributing to My Projects
 
-**Table of contents**
+## **Table of Contents**
+- [🚀 Contributing to My Projects](#-contributing-to-my-projects)
+	- [**Table of Contents**](#table-of-contents)
+	- [🐛 Submitting a Bug Report](#-submitting-a-bug-report)
+	- [✨ Submitting a Feature Request](#-submitting-a-feature-request)
+	- [🔄 Creating a Pull Request](#-creating-a-pull-request)
+		- [🛠️ Contributing Code](#️-contributing-code)
+		- [🌎 Translating](#-translating)
+		- [🧪 Testing Your Changes](#-testing-your-changes)
+	- [✅ Contribution Guidelines](#-contribution-guidelines)
+	- [📜 Licensing Contributions](#-licensing-contributions)
+	- [🛠️ Need Help?](#️-need-help)
 
-- [Contributing](#contributing)
-	- [Submitting a bug report](#submitting-a-bug-report)
-	- [Submitting a feature request](#submitting-a-feature-request)
-	- [Creating a pull request](#creating-a-pull-request)
-		- [Contributing code](#contributing-code)
-		- [Translating](#translating)
+First off, **thank you** for considering contributing to my projects! Your time and effort are appreciated. 💖
 
-Thank you for considering making a contribution to our Services.
+Before contributing, please read the [Code of Conduct](CODE_OF_CONDUCT.md), which all contributors must follow.
 
-Before contributing, please read the [code of conduct](CODE_OF_CONDUCT.md), which all contributors must follow.
+You don’t need to write code to contribute — **all contributions are welcome!**
 
-You don't need to write code to contribute; all contributions are welcome and encouraged. You could:
+If you want to contribute but don’t know how, and this file doesn’t answer your questions, **start a discussion** or [join our Discord community](https://iconical.dev/discord) to ask for guidance.
 
-- [Submit a bug report](#submitting-a-bug-report) issue
-- Help with bug triage
-- [Request a new feature (or an improvement to an existing feature)](#submitting-a-feature-request)
-- [Improve documentation](#updating-documentation)
-- [Help translate](#translating)
-- Create a tutorial (a video or page on the docs)
-- Answer someone's question in Discussions
-- Respond to an issue or pull request
+---
 
-If you want to contribute but don't know how, and this file doesn't answer your questions, `start a discussion` or [join the Discord support & community server](https://discord.gg/EXHhWpb5ps) to ask for guidance.
+## 🐛 Submitting a Bug Report
 
-**Issues are for:**
+Bugs should be reported using GitHub Issues. Before submitting:
+- **Check** if the bug has already been reported or fixed.
+- If it hasn’t, **create a new issue** using the *Bug Report* template.
+- Provide **as much detail as possible**—include logs, screenshots, and steps to reproduce the bug.
 
-- Bug reports
-- Requesting changes to existing features
+---
 
-Please label your issues appropriately.
+## ✨ Submitting a Feature Request
 
-**Discussions are for:**
+Want to suggest a new feature? You can:
+- **Ask me on Discord** and discuss your idea.
+- **Submit a GitHub Issue** with the appropriate label.
+- If it’s a small change to an existing feature, consider **opening an issue** instead.
 
-- Support (also on [Discord](https://iconical.dev/discord))
-- General questions (also on [Discord](https://iconical.dev/discord))
-<!-- - Requesting new features -->
+Use the **Feature Request** template when submitting ideas!
 
-Please read the `Repository Discussions` and the `Rules & Guidelines` before starting a discussion!
+---
 
-## Submitting a bug report
+## 🔄 Creating a Pull Request
 
-Issues should be used to report bugs. If you have found a bug, check to see if it has already been reported or resolved. If it hasn't, you can `create a new issue` using the "Bug report" template. Please include as much information as possible in your report.
+To edit the documentation, translate, or contribute code, you need to **create a new pull request (PR)**. For large changes, consider **creating an issue first** to discuss it before you start coding.
 
-## Submitting a feature request
+### 🛠️ Contributing Code
 
-To request a new feature for the project, ask us on discord and submit an idea.
+- Follow project coding guidelines.
+- **Install ESLint** (if applicable) to maintain code consistency.
+- **Code style:**
+  - Use **tabs**, not spaces, for indentation.
+  - Class names should be **PascalCase**.
+  - Function names should be **camelCase**.
+  - Variables/constants should be **snake_case**.
+  - Use **modern JavaScript/TypeScript features** (destructuring, arrow functions, etc.).
+- Any code changes **must** include relevant documentation updates.
 
-If you would like to request changes to an existing feature, it may be better to `create an issue` instead (use the `given labels` and read their descriptions).
+### 🌎 Translating
 
-## Creating a pull request
+- Keep translations **as close to the original meaning as possible**.
+- If modifications are necessary, users can customize their locale files later.
 
-To edit the documentation, translate, or contribute code to this project, you will need to `create a new pull request`. For large changes, you should **consider creating an issue** (or commenting on an existing one) first, as it could save you some time.
+### 🧪 Testing Your Changes
+- Run tests locally before submitting a PR.
+- If adding a feature, **write tests** to cover it.
+- Use the following command to run tests:
 
+---
 
-### Contributing code
+## ✅ Contribution Guidelines
+✔ Keep code **clean, readable, and well-documented**.  
+✔ Follow the **PR template** when submitting changes.  
+✔ Check for **open issues** before starting work on something new.  
+✔ Make sure **tests pass** before submitting your PR.  
+✔ Respect the **Code of Conduct**.
 
-Any code changes should be accompanied by any necessary documentation changes.
+---
 
-**You should install the ESLint extension in your editor** to help you follow the code style.
+## 📜 Licensing Contributions
+By submitting a contribution, you agree that your code will be licensed under the project's [LICENSE](LICENSE).
 
-- Indentation should use tabs not spaces
-- Classes should be named in PascalCase
-- Functions should be named in camelCase
-- Variables and constants should be named in snake_case
-- Use the latest JS features (destructuring, arrow functions etc)
+---
 
-### Translating
+## 🛠️ Need Help?
+- For general questions, ask in Discussions of that repository
+- Report bugs via **Issues** of each repository.
+- Contact me at **[contribute@iconical.dev](mailto:contribute@iconical.dev)** if needed.
 
-Please try to keep the meaning of the translation as close to the original as possible. If you want to change the meaning, you can customise your locale files after.
+---
 
+📌 *Oops happens, but great contributions make it better*

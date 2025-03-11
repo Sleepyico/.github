@@ -1,15 +1,32 @@
-# Support
+# 🆘 Support & Help
 
-#### You can reach me on discord or thru the email on my [Profile](https://github.com/sleepyico)
+Need help with my projects and tools? Don’t worry — I’ve got you covered! 😎
 
-## Documentation
+## 📌 Where to Get Support
 
-See the `Issues` page on the repository page for the answer to most questions.
+### 🔹 **1. Check the Docs**
+Before anything, check if your question is already answered in my documentation... if there is any 😔
 
-## Discord server
+### 🔹 **2. GitHub Discussions**
+For general questions start a **discussion** in the repository.
 
-Join the [Discord support server](https://discord.gg/EXHhWpb5ps) for help, support, or if your are trying to reach me faster.
+### 🔹 **3. Report a Bug**
+If you found a bug, please submit a detailed issue in the "**Issues**" section of a repository.
 
-## Discussions
+### 🔹 **4. Join the Community**
+Chat with other users and developers:
+- **Discord**: [Join Here](https://iconical.dev/discord)
+- **Twitter/X**: [@Sleepyiconical](https://x.com/Sleepyiconical)
 
-If you prefer, you can also use the discussions tab on GitHub to ask for help.
+### 🔹 **5. Contact Maintainers**
+For **security issues or private matters**, email me directly at:
+- **security@iconical.dev** (for security vulnerabilities)
+- **help@iconical.dev** (for general inquiries)
+
+## 🚀 Contributing to my projects
+Want to help make my projects even better? Check out our contribution guide:
+- [CONTRIBUTING.md](https://github.com/Sleepyico/.github/blob/master/CONTRIBUTING.md)
+
+---
+
+📌 *Things happens — but I'm here to help*

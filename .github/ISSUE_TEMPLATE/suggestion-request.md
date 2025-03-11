@@ -1,43 +1,52 @@
 ---
 name: 🤔 Suggestion Request
-about: Suggest an idea for this project
-title: "[SG]-> "
-labels: "Suggestion"
-assignees: ""
+about: Suggest an improvement to an existing feature.
+title: "[SG] -> "
+labels: "🚀 Enhancement"
+assignees: "@sleepyico"
 ---
 
-# Suggestion Request
-###### Note: This is a Suggestion request; meaning that you can give us a suggestion for somwthing that already exists in the project. If you wanna submit a request for a New Feature please use the Feature Request.
+# 💡 Suggestion Request
 
-<br>
+#### ⚠️ **Note:** 
+This template is for **suggesting improvements to existing features**. If you want to request a brand-new feature, please use the **Feature Request** template instead.
 
-**Name of the Suggestion:**
+---
 
-<!-- Adding options to this and this. -->
+## 📝 Name of the Suggestion
+**What feature are you suggesting improvements for?**
 
-**Describe the Suggestion Request:**
+## 📌 Describe the Suggestion
+**What would this improve?**
 
-<!-- A clear and concise description of what the feature request is. Please include if your suggestion request is related to a problem. -->
+<!-- A clear and concise description of your suggestion. Include any related problems it would solve. Example: "Users often experience emotional damage when looking at their expenses. A button that plays calming whale noises might help reduce stress." -->
 
-**Describe Preferred Solution:**
+## ✅ Preferred Solution
+**How should this improvement work?**
 
-<!-- A clear and concise description of what you want to happen. -->
+<!-- A clear and concise description of how you envision this enhancement. Example: "Whenever a user enters negative budget numbers, an AI voice should whisper 'You're broke, bestie' to provide emotional support." -->
 
-**Describe Alternatives:**
+## 🔄 Alternatives Considered
+**Any other possible solutions?**
 
-<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+<!-- If applicable, list alternative approaches you've thought about. Example: "Instead of an AI whispering 'You're broke,' we could just flash a giant red warning with a crying emoji." -->
 
-**Related Code:**
-
-<!-- If you are able to illustrate the suggestion request with an example, please provide it here. -->
-
+## 🖥️ Relevant Code
+```ts
+// If applicable, provide code snippets to illustrate your suggestion.
+// Example:
+// alert("Warning: Your wallet is crying.");
 ```
-Related code?
-```
 
-**Additional Context:**
+## ℹ️ Additional Context
+**Any extra details?**
 
-<!-- List any other information that is relevant to your issue. Stack traces, related issues, suggestions on how to add, use case, Stack Overflow links, forum links, screenshots, OS if applicable, etc. -->
+<!-- Related issues, use cases, Stack Overflow links, forum discussions, etc. Example: "Maybe integrate with therapy apps because budgeting is traumatic?" -->
 
-**If the Suggestion request is approved, would you be willing to submit a PR?**
-- *Yes / No _(Help can be provided if you need assistance submitting a PR)_*
+## 💪 Willing to Contribute?
+**Would you be open to submitting a PR for this improvement?**
+
+- *Yes / No _(Help can be provided if needed)_*
+
+---
+📌 *Thank you for your suggestion! I'll review it soon.*

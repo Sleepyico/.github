@@ -1,41 +1,57 @@
 ---
-name: 🆕 Feature Request
-about: Suggest a feature for this project
-title: "[FEAT]-> "
-labels: "feature"
-assignees: ""
+name: ✨ Feature Request
+about: Suggest a brand-new feature that will make the project even cooler.
+title: "[FEATURE] -> "
+labels: "✨ New Feature"
+assignees: "@sleepyico"
 ---
 
-# Feature Request
-###### Note: This is a feature request; meaning that you can request a feature that the project doesn't have already. If you wanna submit a suggestion for an existing 'feature' in the project please use the Suggestion Request.
-<br>
+# ✨ Feature Request
 
-**Name of the feature:**
+#### ⚠️ **Note:** 
+This template is for **requesting brand-new features**. If you’re suggesting improvements to existing features, please use the **Suggestion Request** template instead. 
 
-<!-- Adding options to this and this. -->
+---
 
-**Describe the Feature Request:**
+## 💡 Feature Description
+**What amazing thing should we add?**
 
-<!-- A clear and concise description of what the feature request is. Please include if your feature request is related to a problem. -->
+<!-- Example: "An AI assistant that predicts my future financial mistakes so I can ignore them in advance." -->
 
-**Describe Preferred Solution:**
+## 🤔 Why Is This Needed?
+**How will this feature make life better?**
 
-<!-- A clear and concise description of what you want to happen. -->
+<!-- Example: "Because manually tracking my budget is hard, and I’d rather have an AI tell me I’m broke instead of figuring it out myself." -->
 
-**Describe Alternatives:**
+## 🎯 Expected Outcome
+**How should this feature work?**
 
-<!-- A clear and concise description of any alternative solutions or features you've considered. -->
+<!-- Example: "Every time I overspend, the app should flash a warning saying 'Congratulations, you’ve unlocked debt!'" -->
 
-**Related Code:**
+## 🛠️ Possible Implementation
+**Got any ideas on how we could make this real?**
 
-<!-- If you are able to illustrate the bug or feature request with an example, please provide it here. -->
-```
-related code?
-```
+<!-- Example: "Integrate an AI model that detects irresponsible spending patterns and plays a sad trombone sound when it happens." -->
 
-**Additional Context:**
+## 🔄 Alternatives Considered
+**Are there other ways to achieve this?**
 
-<!-- List any other information that is relevant to your issue. Stack traces, related issues, suggestions on how to add, use case, Stack Overflow links, forum links, screenshots, OS if applicable, etc. -->
+<!-- Example: "Instead of an AI assistant, we could just have a pop-up that says 'Are you sure you need that?' every time I buy something unnecessary." -->
 
-**If the feature request is approved, would you be willing to submit a PR?**
-- *Yes / No _(Help can be provided if you need assistance submitting a PR)_*
+## 📸 Mockups/Screenshots
+**Visuals? Sketches? Fancy diagrams?**
+
+<!-- Example: "Here’s a totally professional drawing I made in MS Paint to illustrate my genius idea :)" -->
+
+## ℹ️ Additional Context
+**Anything else we should know?**
+
+<!-- Example: "I think this feature will make the app at least 9000% better, but I could be slightly biased 💀" -->
+
+## 💪 Willing to Contribute?
+**Would you be open to submitting a PR for this feature?**
+
+- *Yes / No _(Help can be provided if needed)_*
+
+---
+📌 *Thanks for the idea! I’ll totally consider it… eventually. Probably. No promises.*
