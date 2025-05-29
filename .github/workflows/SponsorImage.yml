@@ -1,42 +1,35 @@
-name: Scheduler
+name: sponsors
+
+permissions:
+  contents: write
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: 
   schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches: [ master ]
+    - cron: "0 0 * * *" 
 
 jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: pnpm/action-setup@v4
         with:
-          version: 8
-          
-      - name: Set node
-        uses: actions/setup-node@v4
+          version: 9
+          run_install: false
+      - uses: actions/setup-node@v4
         with:
-          node-version: lts/*
-
-      - run: pnpm i
-
-      - name: Update sponsors
-        run: npm run build
-        env:
+          node-version-file: ".nvmrc"
+          cache: pnpm
+      - run: pnpm install
+      - run: pnpm run build
+        env: 
           SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORKIT_GITHUB_TOKEN }}
           SPONSORKIT_GITHUB_LOGIN: Sleepyico
-
-      - name: Commit
-        uses: EndBug/add-and-commit@v9
+      
+      - uses: EndBug/add-and-commit@v9
         with:
-          author_name: GitHub Actions
-          author_email: 41898282+github-actions[bot]@users.noreply.github.com
-          message: '🍱chore: update sponsors.svg [ci skip]'
-          add: "sponsors.*"
-          push: true
+          message: "chore: update sponsors" 
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      - run: pnpm run purge 
