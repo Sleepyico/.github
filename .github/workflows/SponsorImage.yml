@@ -25,15 +25,16 @@ jobs:
       - name: Update sponsors
         run: npm run build
         env:
+          SPONSORKIT_GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
+          SPONSORKIT_GITHUB_LOGIN: Sleepyico
           SPONSORKIT_PATREON_TOKEN: ${{ secrets.SPONSORKIT_PATREON_TOKEN }}
-          SPONSORKIT_BUYMEACOFFEE_TOKEN: ${{ secrets.SPONSORKIT_BUYMEACOFFEE_TOKEN }}
 
       - name: Commit
         uses: EndBug/add-and-commit@v9
         with:
           author_name: GitHub Actions
-          author_email: github-actions[bot]@users.noreply.github.com
-          message: 'chore: update sponsors'
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: 'chore: update sponsors.svg [ci skip]'
           add: "sponsors.*"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SPONSORS_TOKEN }}
